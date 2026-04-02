@@ -1,0 +1,11 @@
+{
+  "EXPECTED_PRODUCT_COUNT": 6,
+  "PRODUCTS_TO_ADD": [
+    "sauce-labs-backpack",
+    "sauce-labs-bike-light",
+    "sauce-labs-bolt-t-shirt",
+    "sauce-labs-onesie",
+    "sauce-labs-fleece-jacket"
+  ],
+  "EXPECTED_CART_COUNT": 5
+}
